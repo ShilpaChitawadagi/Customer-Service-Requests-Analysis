@@ -1,3 +1,4 @@
+Project Customer Service Requests Analysis
 {
  "cells": [
   {
@@ -214,7 +215,7 @@
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
-       "<p>5 rows × 53 columns</p>\n",
+       "<p>5 rows Ã— 53 columns</p>\n",
        "</div>"
       ],
       "text/plain": [
@@ -799,7 +800,7 @@
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
-       "<p>764 rows × 3 columns</p>\n",
+       "<p>764 rows Ã— 3 columns</p>\n",
        "</div>"
       ],
       "text/plain": [
